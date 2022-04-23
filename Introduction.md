@@ -17,7 +17,7 @@
 * A model training algorithm
 * A model inference algorithm
 
-## Elaborating, componrnts of ML
+## Elaborating, components of ML
 * A **model** is an extremely generic program, made specific by the data used to train it.
 * **Model training algorithms** work through an interactive process where the current model iteration is analyzed to determine what changes can be made to get closer to the goal. Those changes are made and the iteration continues until the model is evaluated to meet the goals.
 * **Model inference** is when the trained model is used to generate predictions.
