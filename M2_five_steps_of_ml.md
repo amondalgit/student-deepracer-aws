@@ -27,6 +27,15 @@
 >**Data Visualization**:
 >   communicate the findings to project stakeholders
 
+## 3. Model Training
+>**Splitting Dataset**:
+>   * there will be two factions.
+>       1. Training dataset (holds majority of datapoints ~80%)
+>       2. Testing dataset (model has not seen these before while training)
+>### Key Terms
+>   * **Model parameters**: settings that the training algorithms can update to change hoe thw model behaves. (general used terms are Weights & Biases)
+>   * **Loss functions**: defining model's distance from the actual results
+>   * **Hyperparameters**: settings on the model that are not changed during training, but can affect how quickly or how reliably the model trains (e.g. the number of clusters the model should identify)
 #### Key terms from this lesson:
 * **Impute** is a common term referring to different statistical tools that can be used to calculate missing values from your dataset.
 * **Outliers** are data points that are significantly different from other date in the same sample.
