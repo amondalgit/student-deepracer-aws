@@ -9,4 +9,4 @@
 >2. Unsupervised Learning (uses unlabelled data)
 >    1. Clustering (find any naturally occuring group in the data)
 
-2. ## Build the Dataset
+## 2. Build the Dataset
