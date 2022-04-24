@@ -3,4 +3,5 @@
   
   Master repository:  
   > HTTP https://github.com/AMond-55/student_deepracer_aws.git
+  >
   > SSH  git@github.com:AMond-55/student_deepracer_aws.git

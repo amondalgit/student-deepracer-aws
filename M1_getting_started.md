@@ -22,3 +22,11 @@
 * A **model** is an extremely generic program, made specific by the data used to train it.
 * **Model training algorithms** work through an interactive process where the current model iteration is analyzed to determine what changes can be made to get closer to the goal. Those changes are made and the iteration continues until the model is evaluated to meet the goals.
 * **Model inference** is when the trained model is used to generate predictions.
+
+## Few other terminologies
+* **Clustering** is an unsupervised learning task that helps to determine if there are any naturally occurring groupings in the data.
+* A **categorical label** has a discrete set of possible values, such as "is a cat" and "is not a cat."
+* A **continuous (regression) label** does not have a discrete set of possible values, which means there are potentially an unlimited number of possibilities.
+* **Discrete** is a term taken from statistics referring to an outcome that takes only a finite number of values (such as days of the week).
+* A **label** refers to data that already contains the solution.
+ * Using **unlabeled data** means you don't need to provide the model with any kind of label or solution while the model is being trained.
