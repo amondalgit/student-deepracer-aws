@@ -10,3 +10,23 @@
 >    1. Clustering (find any naturally occuring group in the data)
 
 ## 2. Build the Dataset
+>**Data Collection**: collect data related to your defined problem
+>   * SQL queries
+>   * custom webscraper applications
+>
+>**Data Inspection**: 
+>   * finding outliers
+>   * replace/omit mission/incomplete data
+>   * transform collected data to desired format to be used by model (like categorical to numerial)
+>
+>**Summary Stat**:
+>   * Trend in the data (pdf, cdf)
+>   * scale of the data (measure of variability)
+>   * shape of the data (central tendency, distribution)
+>
+>**Data Visualization**:
+>   communicate the findings to project stakeholders
+
+#### Key terms from this lesson:
+* **Impute** is a common term referring to different statistical tools that can be used to calculate missing values from your dataset.
+* **Outliers** are data points that are significantly different from other date in the same sample.
